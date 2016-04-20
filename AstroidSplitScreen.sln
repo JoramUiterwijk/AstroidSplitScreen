@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{46F26F7C-D6DE-0980-D025-95D08E770D3A}") = "AstroidSplitScreen", "Assembly-CSharp.csproj", "{CB46F64E-F710-E3AC-BB5B-5024539ACFC3}"
+EndProject
+Project("{46F26F7C-D6DE-0980-D025-95D08E770D3A}") = "AstroidSplitScreen", "Assembly-CSharp-Editor.csproj", "{D5F3EDBB-3AEB-5A5F-AD30-DD29ED067161}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB46F64E-F710-E3AC-BB5B-5024539ACFC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB46F64E-F710-E3AC-BB5B-5024539ACFC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB46F64E-F710-E3AC-BB5B-5024539ACFC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB46F64E-F710-E3AC-BB5B-5024539ACFC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5F3EDBB-3AEB-5A5F-AD30-DD29ED067161}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5F3EDBB-3AEB-5A5F-AD30-DD29ED067161}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5F3EDBB-3AEB-5A5F-AD30-DD29ED067161}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5F3EDBB-3AEB-5A5F-AD30-DD29ED067161}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
